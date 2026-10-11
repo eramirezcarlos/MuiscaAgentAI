@@ -1,0 +1,37 @@
+[
+  {
+    "id": "APRT",
+    "name": "Apartment",
+    "icon": "home-1"
+  },
+  {
+    "id": "COMM",
+    "name": "Commercial",
+    "icon": "corporation"
+  },
+  {
+    "id": "FARM",
+    "name": "Farm",
+    "icon": "garden"
+  },
+  {
+    "id": "HOTL",
+    "name": "Hotel",
+    "icon": "hotel"
+  },
+  {
+    "id": "HOUS",
+    "name": "House",
+    "icon": "home"
+  },
+  {
+    "id": "LAND",
+    "name": "Land",
+    "icon": "map"
+  },
+  {
+    "id": "VILL",
+    "name": "Villa",
+    "icon": "home-2"
+  }
+]

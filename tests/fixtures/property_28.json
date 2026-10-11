@@ -1,0 +1,70 @@
+{
+  "property": {
+    "id": 28,
+    "property_code": "PROP-001",
+    "title": "Luxury Coastal Living",
+    "slug": "luxury-coastal-living",
+    "description": "Experience <b>luxury coastal living i</b>n this stunning beachfront estate.<br><br>The home features 5 spacious bedrooms and 4 beautifully designed bathrooms.",
+    "price": "3000000.00",
+    "price_formatted": "3,000,000",
+    "purpose": "Sale",
+    "purpose_name": "For Sale",
+    "type_name": "House",
+    "status_name": "For Sale",
+    "bedroom": 5,
+    "bathroom": 4,
+    "area_size": 1000,
+    "lot_size": 10000,
+    "parking": 4,
+    "year_built": 1990,
+    "years_since_built": 36,
+    "featured": false,
+    "location": {
+      "formatted_address": "4821 Ocean Breeze Drive",
+      "locality": "Miami",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": "25.79065400",
+      "longitude": "-80.13004500"
+    },
+    "agent": {
+      "id": 1,
+      "name": "Demo Agent",
+      "email": "agent@example.com",
+      "picture": null
+    },
+    "amenities": [],
+    "created_at": "2026-05-22T18:00:42.000000Z"
+  },
+  "pictures": {
+    "SLI": [
+      {
+        "id": 166,
+        "type": "SLI",
+        "path": "properties/x/ocean_sli_2.jpeg",
+        "alt": "a",
+        "format": "jpeg",
+        "is_primary": true
+      }
+    ]
+  },
+  "picture_list": [
+    {
+      "id": 166,
+      "type": "SLI",
+      "path": "properties/x/ocean_sli_2.jpeg",
+      "alt": "a",
+      "format": "jpeg",
+      "is_primary": true
+    },
+    {
+      "id": 167,
+      "type": "SLI",
+      "path": "properties/x/ocean_sli_1.jpeg",
+      "alt": "b",
+      "format": "jpeg",
+      "is_primary": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "FSL",
+    "name": "For Sale",
+    "description": null
+  },
+  {
+    "id": "FRT",
+    "name": "For Rent",
+    "description": null
+  },
+  {
+    "id": "SLD",
+    "name": "Sold",
+    "description": null
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "Demo Agent",
+      "bio": "<p>Ten years selling <b>coastal</b> homes.</p>",
+      "email": "agent@example.com",
+      "telefono_office": "555-0100",
+      "telefono_whatsapp": "555-0101",
+      "photo_url": "https://example.com/a.jpg",
+      "type": "agent",
+      "properties_count": 25,
+      "member_since": "2026-01-14",
+      "property_types": [
+        {
+          "code": "HOUS",
+          "name": "House"
+        }
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "code": "FL",
+          "name": "Florida",
+          "country_code": "US"
+        }
+      ],
+      "cities": [
+        {
+          "id": 13,
+          "name": "Miami",
+          "state_code": "FL",
+          "country_code": "US"
+        }
+      ],
+      "primary_country": "US",
+      "primary_state": "FL",
+      "primary_city_id": 13,
+      "primary_city_name": "Miami"
+    }
+  ],
+  "from": 1,
+  "to": 1,
+  "last_page": 1,
+  "per_page": 15,
+  "total": 1,
+  "next_page_url": null,
+  "prev_page_url": null
+}

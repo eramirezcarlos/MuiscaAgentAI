@@ -1,0 +1,8 @@
+anthropic>=1.13,<2
+fastapi>=0.143,<1
+httpx>=0.28,<1
+python-dotenv>=1.0,<2
+uvicorn>=0.54,<1
+
+# tests
+pytest>=9,<10
